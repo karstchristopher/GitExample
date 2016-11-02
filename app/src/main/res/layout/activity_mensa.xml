@@ -39,7 +39,7 @@
             android:text="Bisher unentdeckter Bug"
             android:textSize="25dp"
             android:layout_weight="0" />
-        -->
+
 
     </LinearLayout>
 
