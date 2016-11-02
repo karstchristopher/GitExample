@@ -21,7 +21,7 @@
         android:gravity="center|bottom"
         android:orientation="vertical" >
 
-        <!-- unbelievable new feature-->
+        <!-- unbelievable new feature
 
         <TextClock
             android:id="@+id/button1"
@@ -29,6 +29,7 @@
             android:layout_width="145dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal|center" />
+        -->
 
         <!---->
         <TextView
