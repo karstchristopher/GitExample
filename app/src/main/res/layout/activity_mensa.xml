@@ -26,7 +26,7 @@
         <TextClock
             android:id="@+id/button1"
             style="?android:attr/buttonStyleSmall"
-            android:layout_width="280dp"
+            android:layout_width="380dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal|center" />
 
