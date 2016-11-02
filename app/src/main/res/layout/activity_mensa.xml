@@ -21,7 +21,7 @@
         android:gravity="center|bottom"
         android:orientation="vertical" >
 
-        <!-- unbelievable new feature
+        <!-- unbelievable new feature-->
 
         <TextClock
             android:id="@+id/button1"
@@ -29,14 +29,15 @@
             android:layout_width="145dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal|center" />
-        -->
-        <!--
+
+        <!---->
         <TextView
             android:id="@+id/textView1"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="Bisher unentdeckter Bug"
+            android:textSize="25dp"
             android:layout_weight="0" />
         -->
 
